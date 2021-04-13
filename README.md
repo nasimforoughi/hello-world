@@ -1,2 +1,3 @@
 # hello-world
-the first repository
+the very first repository
+Nasim here, I like JavaScript!
